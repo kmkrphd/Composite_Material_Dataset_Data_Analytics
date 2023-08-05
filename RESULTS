@@ -1,0 +1,23 @@
+RESULTS
+
+
+  Material Composition Fabrication Technique  Tensile Strength (MPa)  \
+0       Polymer Matrix     Langmuir-Blodgett              881.265719   
+1     Carbon Nanotubes       Electrospinning             1000.938692   
+2       Polymer Matrix       Electrospinning             1451.146231   
+3       Polymer Matrix       Electrospinning             1262.108467   
+4     Carbon Nanotubes     Langmuir-Blodgett              929.321167   
+
+   Thermal Conductivity (W/m·K)  Elastic Modulus (GPa)  Density (g/cm³)  \
+0                     29.043656              98.646160         2.265049   
+1                     34.919035             241.380835         1.651445   
+2                     33.339861             153.021912         2.479350   
+3                     24.970535              79.205276         1.821352   
+4                     45.364575              79.635809         2.418646   
+
+   Fiber Volume Fraction (%)  
+0                  48.617341  
+1                  42.545066  
+2                  54.983289  
+3                  56.937740  
+4                  56.355444 
